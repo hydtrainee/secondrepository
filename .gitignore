@@ -1,5 +1,5 @@
 test_report.html
 target/
 *.log
-*/password.txt
+/password.txt
 */*.ja
