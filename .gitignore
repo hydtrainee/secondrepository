@@ -1,4 +1,4 @@
-test-report.html
+test_report.html
 target/
 *.log
 */password.txt
